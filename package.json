@@ -26,7 +26,9 @@
     "lint": "tsc --noEmit && eslint './src/'"
   },
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
+    "src",
     "dist/"
   ],
   "dependencies": {
