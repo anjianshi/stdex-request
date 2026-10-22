@@ -1,6 +1,6 @@
 {
   "name": "@stdex/request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "可靠、简洁的网络请求模块",
   "homepage": "https://github.com/anjianshi/stdex-request",
   "bugs": {
