@@ -6,4 +6,4 @@ minimumReleaseAgeExclude:
   - '@stdex/presets-eslint-typescript@1.0.2'
   - '@stdex/presets-prettier@1.0.2'
   - '@stdex/presets-typescript@1.0.2'
-  - '@stdex/logging@1.0.0'
+  - '@stdex/logging@1.0.0 || 1.0.1 || 1.1.0'
