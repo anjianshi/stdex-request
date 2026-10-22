@@ -1,0 +1,9 @@
+allowBuilds:
+  unrs-resolver: true
+minimumReleaseAgeExclude:
+  - '@stdex/presets-eslint-base@1.0.2'
+  - '@stdex/presets-eslint-node@1.0.2'
+  - '@stdex/presets-eslint-typescript@1.0.2'
+  - '@stdex/presets-prettier@1.0.2'
+  - '@stdex/presets-typescript@1.0.2'
+  - '@stdex/logging@1.0.0'
